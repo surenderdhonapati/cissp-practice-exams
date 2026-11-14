@@ -81,7 +81,9 @@ Every file shows its version and build date on the start screen. The file names 
 
 The same format now exists for the CISM: [cism-practice-exams](https://github.com/surenderdhonapati/cism-practice-exams), four linear exams of 150 items each, two untimed with explanations and two timed at 240 minutes.
 
-I hold these certifications and can build practice exams in the same format for them: CISA, AWS Certified Security - Specialty (SCS-C03), Microsoft Azure Administrator (AZ-104), CompTIA Security+ and Splunk Core Certified User. I am currently preparing for the Claude Certified Architect Professional (CCAR-P) and the IAPP Artificial Intelligence Governance Professional (AIGP), and practice exams for those can follow later.
+The same format now exists for the CISA: [cisa-practice-exams](https://github.com/surenderdhonapati/cisa-practice-exams), four linear exams of 150 items each, two untimed with explanations and two timed at 240 minutes.
+
+I hold these certifications and can build practice exams in the same format for them: AWS Certified Security - Specialty (SCS-C03), Microsoft Azure Administrator (AZ-104), CompTIA Security+ and Splunk Core Certified User. I am currently preparing for the Claude Certified Architect Professional (CCAR-P) and the IAPP Artificial Intelligence Governance Professional (AIGP), and practice exams for those can follow later.
 
 If you would like one of these, open an issue with the template **Practice exam request** or message me on LinkedIn and tell me which certification. The ones with the most requests come first.
 

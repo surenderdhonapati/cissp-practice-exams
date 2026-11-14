@@ -7,7 +7,7 @@ assignees: surenderdhonapati
 ---
 
 **Certification**
-CISM, CISA, AWS Certified Security - Specialty (SCS-C03), Microsoft Azure Administrator (AZ-104), CompTIA Security+, Splunk Core Certified User, or another one.
+AWS Certified Security - Specialty (SCS-C03), Microsoft Azure Administrator (AZ-104), CompTIA Security+, Splunk Core Certified User, or another one.
 
 **What would help you most**
 Untimed with explanations, timed, or both. Anything else you would like to see.
